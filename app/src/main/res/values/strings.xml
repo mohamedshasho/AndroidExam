@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidTask</string>
+    <string name="search">Search</string>
+    <string name="label">Label</string>
+</resources>
